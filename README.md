@@ -5,7 +5,7 @@ I am a Computer Science student at Western Governors University, passionate abou
 
 ## 🚀 What I'm Up To
 
-- 💻 Building QuickScribe, my full-stack audio transcription application
+- 💻 Building tooling for local AI
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
 
