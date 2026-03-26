@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Chandler Casey</h1>
+<h1 align="center">Hi 👋 I'm Chandler </h1>
 
-# 💫 About Me:
+#  About Me:
 I am a Computer Science student at Western Governors University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - 💻 Building tooling for local AI
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
@@ -17,10 +17,10 @@ Check out my [coding portfolio!](https://chandler-casey-portfolio.netlify.app/)
 
 # 💻 Tech Stack:
 Languages: 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
